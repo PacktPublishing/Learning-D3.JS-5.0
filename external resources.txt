@@ -1,0 +1,16 @@
+video 1.2
+Tell meaningful stories with data -->
+https://www.thinkwithgoogle.com/marketing-resources/data-measurement/tell-meaningful-stories-with-data/
+
+
+video 1.4 (Picking a text editor)
+Notepad++ --> https://notepad-plus-plus.org/
+Brackets --> http://brackets.io/
+Atom --> https://atom.io/
+Sublime --> https://www.sublimetext.com/
+5 Free, offline text editors | Win, Mac, Linux --> https://youtu.be/SmWoo0ryAXs
+
+video 1.5 (Local server)
+WebStorm --> https://www.jetbrains.com/webstorm/
+Xampp --> https://www.apachefriends.org/index.html
+
