@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>D3 local server</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1>Complex Shapes!</h1>
+	<svg id="container">
+
+		<!-- Rectangle -->
+		<!-- 
+		<rect width="100" height="100"
+			fill="red" stroke="blue"
+			stroke-width="10" x="5" y="5">
+			
+		</rect>
+		-->
+
+		<!-- Circle 
+		<circle r="100" cx="105" cy="105"
+			fill="red" stroke="blue" stroke-width="10">
+		</circle>
+		-->
+		
+
+		<!-- Ellipses 
+		<ellipse rx="160" ry="80"
+			cx="105" cy="105"
+			fill="red" stroke="blue" stroke-width="10">
+		</ellipse>
+		-->
+
+		<!-- lines -->
+		<!-- 
+ 		<line x1="25" y1="25"
+ 		  x2="200" y2="200"
+ 		  stroke="red" stroke-width="10">
+ 		</line>
+ 		-->
+ 		<!-- polygons 
+ 		<polygon points="220,10 120,250 300,205,150,240" fill="yellow"
+ 		stroke="red" stroke-width="10">
+ 		</polygon>
+ 		-->
+
+ 		<!-- polylines -->
+		<!--
+ 		<polyline points="220,10 120,250 300,205,150,240" fill="none"
+ 		stroke="red" stroke-width="10">
+ 		</polyline>
+		-->
+		
+		<!-- Paths -->
+ 		<!--
+		<path d="
+ 				M 100, 100
+ 				L 300, 150
+ 				L 300, 300
+ 				Q 200, 400 100, 200"
+
+ 				fill="none" stroke="red" stroke-width="10">
+ 			
+ 		</path>
+		-->
+		
+		<!-- Texts -->
+		<!--
+ 		<a xlink:href="https://google.com" target="_blank">
+	 		<text x="40" y="40" fill="red" font-size="25">
+	 			Have a nice day
+	 			<tspan x="100" y="120">Hello to you too!</tspan>
+	 		</text>
+ 		</a>
+		-->
+
+ 		<!-- Definitions -->
+ 		<defs>
+ 			<rect width="40" height="40" x="0" y="0"
+ 					id="rectangle">
+ 			</rect>
+ 		</defs>
+
+ 		<use xlink:href="#rectangle" x="0" y="0"></use>
+ 		<use xlink:href="#rectangle" x="140" y="140" fill="blue"></use>
+	</svg>
+
+</body>
+</html>
