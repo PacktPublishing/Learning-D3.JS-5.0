@@ -1,0 +1,18 @@
+video 10.1
+JeoJSON example --> http://geojson.org
+Create JeoJSON files --> https://geojson-maps.ash.ms
+Create and Validate JeoJSON files --> http://geojson.io
+
+video 10.2
+Projections --> https://github.com/d3/d3-geo-projection
+
+video 10.5
+Choropleth maps --> https://www.axismaps.com/guide/univariate/choropleth/
+Scale --> https://github.com/d3/d3-scale
+Drag --> https://github.com/d3/d3-drag
+Zoom --> https://github.com/d3/d3-zoom
+
+
+
+
+

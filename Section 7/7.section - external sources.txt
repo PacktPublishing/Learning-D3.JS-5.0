@@ -1,0 +1,5 @@
+video 7.3
+D3 scale documentation --> https://github.com/d3/d3-scale
+D3 array documentation --> https://github.com/d3/d3-array
+
+

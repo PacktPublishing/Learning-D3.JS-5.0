@@ -1,0 +1,12 @@
+[
+	{"city":"Vienna", "population": "1800000", "lat":"48.220778", "lon":"16.3100206"},
+	{"city":"Brussels", "population": "1199000", "lat":"50.8550625", "lon":"4.3053507"},
+	{"city":"Amsterdam", "population": "821000", "lat":"52.2093656", "lon":"4.1584593"},
+	{"city":"Prague", "population": "1281000", "lat":"50.0598058", "lon":"14.3255424"},
+	{"city":"Rome", "population": "2873000", "lat":"41.9102415", "lon":"12.3959155"},
+	{"city":"Zurich", "population": "402762", "lat":"47.3775499", "lon":"8.4666756"},
+	{"city":"Warsaw", "population": "1745000", "lat":"52.2330653", "lon":"20.9211128"},
+	{"city":"Paris", "population": "2200000", "lat":"48.8589507", "lon":"2.2770205"},
+	{"city":"Berlin", "population": "3520000", "lat":"52.4313975", "lon":"12.8884975"},
+	{"city":"Luxembourg City", "population": "114303", "lat":"48.220778", "lon":"16.3100206"}
+]
